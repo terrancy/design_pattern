@@ -1,3 +1,9 @@
+# Basic folders in the root
+/.idea
+/.vscode
+/.vagrant
+.DS_Store
+.env
 # Binaries for programs and plugins
 *.exe
 *.exe~
